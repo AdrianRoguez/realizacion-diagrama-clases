@@ -1,3 +1,4 @@
+# Cliente
 ```java
 // Clase Cliente
 public class Cliente {
@@ -49,7 +50,7 @@ public class Cliente {
     }
 }
 ```
-
+# Reserva
 ```java
 // Clase Reserva
 public class Reserva {
@@ -111,7 +112,7 @@ public class Reserva {
     }
 }
 ```
-
+# Habitación
 ```java
 // Clase Habitación
 public class Habitacion {
